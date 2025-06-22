@@ -13,9 +13,11 @@ i'm currently finishing up the ideas and sketches for hyperion, helios and prome
 
 a human arm has 7DOF: 
 - 3 are at the shoulder (pitch, yaw and roll)
-- 1 is at the elbow (pitchc)
+- 1 is at the elbow (pitch)
 - 1 is at the forearm (roll)
 - 2 are at the wrist (pitch and roll)
+
+![Screenshot_20250622_104834_ibisPaint X](https://github.com/user-attachments/assets/e67fd31f-ad3b-4fc5-a592-0eba518ef97b)
 
 i'm not too sure wheter i should use flex sensors or rotary encoders with linkages attached to rings on each finger for the hand. one one hand, flex sensors are easier to use but they are expensive and have a range of error. on the other, rotary encoders with linkages are slightly harder to model. either way, i'd need a glove to have it be comfortable.
 
